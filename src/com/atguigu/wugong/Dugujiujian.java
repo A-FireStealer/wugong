@@ -10,6 +10,7 @@ public class Dugujiujian {
 		System.out.println("啦啦啦啦！");
 		System.out.println("恩怨了");
 		System.out.println("都来报！");
+		System.out.println("笑藏刀！");
 	}
 
 }
